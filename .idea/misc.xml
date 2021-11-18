@@ -4,8 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/GitHub/Exercise3_Bai5_PRM391x_Funix/app/src/main/res/drawable/abstract_bg.xml" value="0.19375" />
+        <entry key="..\:/GitHub/Exercise3_Bai5_PRM391x_Funix/app/src/main/res/drawable/btn_back_bg.xml" value="0.1453125" />
         <entry key="..\:/GitHub/Exercise3_Bai5_PRM391x_Funix/app/src/main/res/drawable/btn_bg.xml" value="0.19375" />
-        <entry key="..\:/GitHub/Exercise3_Bai5_PRM391x_Funix/app/src/main/res/layout/activity_detail.xml" value="0.17760416666666667" />
+        <entry key="..\:/GitHub/Exercise3_Bai5_PRM391x_Funix/app/src/main/res/layout/activity_detail.xml" value="0.1" />
         <entry key="..\:/GitHub/Exercise3_Bai5_PRM391x_Funix/app/src/main/res/layout/activity_main.xml" value="0.13752913752913754" />
       </map>
     </option>
