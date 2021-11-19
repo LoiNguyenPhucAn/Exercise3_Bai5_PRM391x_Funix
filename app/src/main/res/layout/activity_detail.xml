@@ -23,7 +23,7 @@
         tools:ignore="HardcodedText" />
 
     <TextView
-        android:id="@+id/tvTittle1"
+        android:id="@+id/tvTitle1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="30dp"
@@ -72,7 +72,7 @@
         android:layout_height="150dp"
         android:layout_marginTop="25dp"
         android:layout_marginEnd="50dp"
-        app:layout_constraintEnd_toStartOf="@+id/tvTittle1"
+        app:layout_constraintEnd_toStartOf="@+id/tvTitle1"
         app:layout_constraintTop_toTopOf="@+id/btnback"
         app:srcCompat="@drawable/ic_circle_blank"
         tools:ignore="ContentDescription" />

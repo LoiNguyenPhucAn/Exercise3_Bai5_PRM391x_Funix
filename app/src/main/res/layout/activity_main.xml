@@ -199,7 +199,7 @@
         app:layout_constraintTop_toBottomOf="@+id/ivTittle">
 
         <TextView
-            android:id="@+id/tvTittle2"
+            android:id="@+id/tvTitle2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginStart="70dp"
@@ -235,7 +235,7 @@
     </LinearLayout>
 
     <ImageView
-        android:id="@+id/ivTittle2"
+        android:id="@+id/ivTitle2"
         android:layout_width="70dp"
         android:layout_height="100dp"
         android:layout_marginBottom="170dp"
