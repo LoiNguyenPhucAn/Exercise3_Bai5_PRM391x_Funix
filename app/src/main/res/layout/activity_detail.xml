@@ -70,9 +70,9 @@
         android:id="@+id/ivCircle_bg"
         android:layout_width="150dp"
         android:layout_height="150dp"
+        android:layout_marginStart="4dp"
         android:layout_marginTop="25dp"
-        android:layout_marginEnd="50dp"
-        app:layout_constraintEnd_toStartOf="@+id/tvTitle1"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/btnback"
         app:srcCompat="@drawable/ic_circle_blank"
         tools:ignore="ContentDescription" />
